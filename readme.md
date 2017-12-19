@@ -1,1 +1,1 @@
-Blockchain implementation
+Blockchain implementation.
